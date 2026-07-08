@@ -34,5 +34,5 @@
 ---
 
 ## 🤝 Connect With Me
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anas-elissa-40179a321/))
+* 💼 **LinkedIn:**(https://www.linkedin.com/in/anas-elissa-40179a321/))
 * 📧 **Email:** [your.email@email.com](mailto:your.email@email.com)
