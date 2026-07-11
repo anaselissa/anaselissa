@@ -1,38 +1,38 @@
-# 👋 Hi, I'm Anas  
+# 👋 Hi, I'm Anas Elissa
 
-> A Computer Science Graduate and Software Engineering Student at **42 Irbid**. I focus on mastering core computer science fundamentals, low-level system programming, and deploying practical software applications.
+> Computer Science Graduate & Software Engineering Cadet at **42 Irbid**. Bridging low-level system programming with backend architecture and AI-assisted workflows to build scalable systems.
 
 ---
 
 ## 🛠️ Technical Toolkit
 
-### 💻 Programming Languages
-* **Low-Level & Systems:** C • C++
-* **Application & Web Development:** Dart (Flutter Framework) • JavaScript
-* **Scripting & Automation:** Python • Bash Scripting
+### 💻 Core Languages
+* **Systems & Low-Level:** C 
+* **Backend & OOP:** Python
+* **Scripting:** Bash
 
-### ⚙️ Environments & Tools
-* **OS / Environment:** Linux (Terminal & Shell environments)
-* **Version Control:** Git / GitHub (Structured branch & workflow management)
-* **Productivity:** Core software design principles & AI-driven workflows
+### ⚙️ Infrastructure & Tools
+* **Environments:** Linux/Unix (Terminal & Shell)
+* **Backend Services:** Supabase
+* **Version Control:** Git / GitHub (Structured branching & workflow)
+* **Workflows:** AI-Assisted Development (Prompt Engineering for code generation & debugging)
 
 ---
 
 ## 📂 Core Engineering Pathways
 
 ### 🏛️ Low-Level Systems (42 Curriculum)
-* **[libft](./42-c_project-libft):** A custom static C library re-implementing standard `libc` functions from scratch to master byte-level memory operations and pointer manipulation.
-* **get_next_line `[Upcoming]`:** A function engineered to read and return a line from a file descriptor efficiently.
-* **push_swap `[Upcoming]`:** Optimizing dynamic data sorting using limited stacks and minimal instruction operations.
+* **[push_swap](./42-c_project-push_swap):** Engineered a highly optimized stack-based data sorting algorithm manipulating complex data structures.
+* **[get_next_line & ft_printf](./42-c_project-gnl-printf):** Developed memory-efficient static C libraries for low-level file I/O and string parsing.
+* **[libft](./42-c_project-libft):** Re-implemented standard `libc` functions from scratch, mastering byte-level memory operations and pointer manipulation.
 
-### 📱 Applications & Practical Solutions
-* **Graduation Project (Riayatkom):** A humanitarian coordination platform.
-  * **[Frontend Client](./Graduation-project-hoster-frontend):** Built with Dart/Flutter for cross-platform accessibility.
-  * **[Backend Architecture](./Graduation-project-hoster-backend):** Engineered with JavaScript to handle data flow and user management.
-* **[MAZA Overclock Hackathon](./42-anas-hakathon):** Repository containing the software architecture and solutions developed during the 24-hour programming challenge.
+### ⚙️ Backend Architecture & Practical Solutions
+* **[Riayatkom Platform](./Graduation-project-hoster-backend):** (Graduation Project) Led the backend architecture, defining database schema and managing data flow via Supabase. Directed AI-assisted workflows for the development team.
+* **[Jwaaha Labaneh (Odoo ERP)](https://jwaaha-labaneh.odoo.com/):** Configured backend modules, operational workflows, and data categorization for an e-commerce platform using the Odoo framework.
+* **[MAZA Overclock Hackathon](./42-anas-hakathon):** Architected the core backend logic and data structure for a transportation management system during a 24-hour rapid prototyping sprint.
 
 ---
 
 ## 🤝 Connect With Me
-* 💼 **LinkedIn:**(https://www.linkedin.com/in/anas-elissa-40179a321/))
-* 📧 **Email:** (anselissa@email.com)
+* 💼 **LinkedIn:** [Anas Elissa](https://www.linkedin.com/in/anas-elissa-40179a321/)
+* 📧 **Email:** anselissa20@gmail.com
