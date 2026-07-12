@@ -19,18 +19,22 @@
 
 ---
 
-## 📂 Core Engineering Pathways
+## 📂 Core Projects & Management
 
-### 🏛️ Low-Level Systems (42 Curriculum)
-* **[push_swap](./42-c_project-push_swap):** Engineered a highly optimized stack-based data sorting algorithm manipulating complex data structures.
-* **[get_next_line & ft_printf](./42-c_project-gnl-printf):** Developed memory-efficient static C libraries for low-level file I/O and string parsing.
-* **[libft](./42-c_project-libft):** Re-implemented standard `libc` functions from scratch, mastering byte-level memory operations and pointer manipulation.
+### 🏛️ 42 Curriculum (Low-Level Systems & Algorithms)
+* **[push_swap](./42-c_project-push_swap):** Engineered a highly optimized stack-based data sorting algorithm.
+* **[get_next_line](./42-c_project-get_next_line):** Developed a memory-efficient static C library for I/O operations.
+* **[libft](./42-c_project-libft):** Re-implemented standard `libc` functions from scratch.
 
-### ⚙️ Backend Architecture & Practical Solutions
-* **[Riayatkom Platform](./Graduation-project-hoster-backend):** (Graduation Project) Led the backend architecture, defining database schema and managing data flow via Supabase. Directed AI-assisted workflows for the development team.
-* **[Jwaaha Labaneh (Odoo ERP)](https://jwaaha-labaneh.odoo.com/):** Configured backend modules, operational workflows, and data categorization for an e-commerce platform using the Odoo framework.
-* **[MAZA Overclock Hackathon](./42-anas-hakathon):** Architected the core backend logic and data structure for a transportation management system during a 24-hour rapid prototyping sprint.
-
+### 🌐 Project Coordination & Configuration
+* **Riayatkom Platform (Graduation Project):** 
+  * Acted as General Team Lead and Project Coordinator.
+  * Designed the foundational database schema.
+* **42 Network Hackathon (Transportation Platform):** 
+  * Directed the project and supervised the overall execution.
+  * Leveraged AI tools to generate the solution and structure the platform (Zero manual coding).
+* **[Jwaaha Labaneh (Odoo ERP)](https://jwaaha-labaneh.odoo.com/):** 
+  * Handled the system setup and out-of-the-box configuration (No-code).
 ---
 
 ## 🤝 Connect With Me
